@@ -1,0 +1,13 @@
+C:\Users\bruno\Desktop\Projetos VS\EmployeesPayments\EmployeesPayments\bin\Debug\netcoreapp3.1\EmployeesPayments.exe
+C:\Users\bruno\Desktop\Projetos VS\EmployeesPayments\EmployeesPayments\bin\Debug\netcoreapp3.1\EmployeesPayments.deps.json
+C:\Users\bruno\Desktop\Projetos VS\EmployeesPayments\EmployeesPayments\bin\Debug\netcoreapp3.1\EmployeesPayments.runtimeconfig.json
+C:\Users\bruno\Desktop\Projetos VS\EmployeesPayments\EmployeesPayments\bin\Debug\netcoreapp3.1\EmployeesPayments.runtimeconfig.dev.json
+C:\Users\bruno\Desktop\Projetos VS\EmployeesPayments\EmployeesPayments\bin\Debug\netcoreapp3.1\EmployeesPayments.dll
+C:\Users\bruno\Desktop\Projetos VS\EmployeesPayments\EmployeesPayments\bin\Debug\netcoreapp3.1\EmployeesPayments.pdb
+C:\Users\bruno\Desktop\Projetos VS\EmployeesPayments\EmployeesPayments\obj\Debug\netcoreapp3.1\EmployeesPayments.csprojAssemblyReference.cache
+C:\Users\bruno\Desktop\Projetos VS\EmployeesPayments\EmployeesPayments\obj\Debug\netcoreapp3.1\EmployeesPayments.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\Projetos VS\EmployeesPayments\EmployeesPayments\obj\Debug\netcoreapp3.1\EmployeesPayments.AssemblyInfo.cs
+C:\Users\bruno\Desktop\Projetos VS\EmployeesPayments\EmployeesPayments\obj\Debug\netcoreapp3.1\EmployeesPayments.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\Projetos VS\EmployeesPayments\EmployeesPayments\obj\Debug\netcoreapp3.1\EmployeesPayments.dll
+C:\Users\bruno\Desktop\Projetos VS\EmployeesPayments\EmployeesPayments\obj\Debug\netcoreapp3.1\EmployeesPayments.pdb
+C:\Users\bruno\Desktop\Projetos VS\EmployeesPayments\EmployeesPayments\obj\Debug\netcoreapp3.1\EmployeesPayments.genruntimeconfig.cache
